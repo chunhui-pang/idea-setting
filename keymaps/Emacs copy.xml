@@ -1,4 +1,23 @@
 <keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="alt o" second-keystroke="h" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+    <keyboard-shortcut first-keystroke="alt o" second-keystroke="shift h" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl add" />
+    <keyboard-shortcut first-keystroke="shift ctrl equals" />
+    <keyboard-shortcut first-keystroke="alt o" second-keystroke="s" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+    <keyboard-shortcut first-keystroke="alt o" second-keystroke="shift s" />
+  </action>
+  <action id="ExportToTextFile" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
     <keyboard-shortcut first-keystroke="escape" second-keystroke="period" />

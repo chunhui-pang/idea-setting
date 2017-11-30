@@ -7,6 +7,9 @@
     <keyboard-shortcut first-keystroke="ctrl minus" />
     <keyboard-shortcut first-keystroke="alt o" second-keystroke="shift h" />
   </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+  </action>
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl add" />
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
@@ -29,9 +32,15 @@
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="i" />
   </action>
   <action id="GotoSuperMethod" />
+  <action id="HippieBackwardCompletion" />
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="ctrl space" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="shift alt slash" />
   </action>
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="ctrl alt f7" />

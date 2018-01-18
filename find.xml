@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.po" />
+    <option name="FILE_MASK" value="!*.po,!*test*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -24,6 +24,17 @@
       <mask>!*.</mask>
       <mask>!*.p</mask>
       <mask>!*.po</mask>
+      <mask>!*.po,!ts</mask>
+      <mask>!*.po,!t</mask>
+      <mask>!*.po,*</mask>
+      <mask>!*.po,</mask>
+      <mask>!*.po,!</mask>
+      <mask>!*.po,!*</mask>
+      <mask>!*.po,!*tes</mask>
+      <mask>!*.po,!*teste*</mask>
+      <mask>!*.po,!*teste</mask>
+      <mask>!*.po,!*test</mask>
+      <mask>!*.po,!*test*</mask>
     </recentFileMasks>
   </component>
 </application>

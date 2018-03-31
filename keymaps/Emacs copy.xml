@@ -1,14 +1,15 @@
 <keymap version="1" name="Emacs copy" parent="Emacs">
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
-    <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="ctrl space" />
   </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="alt period" />
     <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="d" />
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="i" />
   </action>
+  <action id="GotoSuperMethod" />
 </keymap>

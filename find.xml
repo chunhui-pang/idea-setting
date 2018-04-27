@@ -3,38 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*test*" />
-    <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
-      <mask>!8.</mask>
-      <mask>!8</mask>
-      <mask>!</mask>
-      <mask>!*</mask>
-      <mask>!*.</mask>
-      <mask>!*.p</mask>
-      <mask>!*.po</mask>
-      <mask>!*.po,!ts</mask>
-      <mask>!*.po,!t</mask>
-      <mask>!*.po,*</mask>
-      <mask>!*.po,</mask>
-      <mask>!*.po,!</mask>
-      <mask>!*.po,!*</mask>
-      <mask>!*.po,!*tes</mask>
-      <mask>!*.po,!*teste*</mask>
-      <mask>!*.po,!*teste</mask>
-      <mask>!*.po,!*test</mask>
-      <mask>!*.po,!*test*</mask>
-      <mask>*.py</mask>
-      <mask>!*test*</mask>
-    </recentFileMasks>
   </component>
 </application>
